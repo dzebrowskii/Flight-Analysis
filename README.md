@@ -21,9 +21,9 @@ na podstawie takich danych jak:
 - Liczba pasażerów
 - Całkowita cena biletu, łącznie z opłatami i podatkami.
 
-  ## Rotation Cancellation Decision
-  Zadanie to polegało na podjęciu decyzji dotyczącej skasowania jednej z rotacji dalekodystansowej w danym dniu.
-  Podczas usuwania rotacji koniecznie było uwzględnienie nie tylko aspektów finansowych, operacyjnych czy logistycznych ale również konsekwencje wizerunkowe firmy.
+## Rotation Cancellation Decision
+Zadanie to polegało na podjęciu decyzji dotyczącej skasowania jednej z rotacji dalekodystansowej w danym dniu.
+Podczas usuwania rotacji koniecznie było uwzględnienie nie tylko aspektów finansowych, operacyjnych czy logistycznych ale również konsekwencje wizerunkowe firmy.
 
 
 ## Open Questions

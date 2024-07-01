@@ -51,11 +51,11 @@ Propozycja dwóch nowych tras lotniczych krótkiego dystansu oraz dwie trasy dal
 * Prognozowane koszty eksploatacji i potencjalne zyski.															
 * Czynniki związane z geopolityką oraz trendami w podróżowaniu.															
 															
-2. Overbooking
+2. Overbooking:
 Stosunek do stosowania praktyk overbookingu przez linie lotnicze:													
 * Czy overbooking jest zawsze konieczny? Jakie korzyści za sobą niesie?															
 * Jakie są potencjalne skutki uboczne overbookingu dla reputacji linii lotniczej oraz doświadczenia pasażerów?															
 															
-3. Zarządzanie przychodami															
+3. Zarządzanie przychodami:															
 W kontekście działalności linii lotniczej oceniając aspekty zarządzania przychodami dokonaj decyzji:															
 * Czy lepszą strategią dla linii lotniczej jest wypełnienie samolotu maksymalną liczbą pasażerów, nawet jeśli oznacza to niższą średnią cenę biletów, czy też sprzedaż mniejszej liczby biletów, ale o wyższych cenach?															

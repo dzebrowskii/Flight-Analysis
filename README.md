@@ -24,6 +24,23 @@ na podstawie takich danych jak:
 ## Rotation Cancellation Decision
 Zadanie to polegało na podjęciu decyzji dotyczącej skasowania jednej z rotacji dalekodystansowej w danym dniu.
 Podczas usuwania rotacji koniecznie było uwzględnienie nie tylko aspektów finansowych, operacyjnych czy logistycznych ale również konsekwencje wizerunkowe firmy.
+Decyzje były podejmowane na podstawie:
+- Numer rotacji
+- Trasa
+- Data pierwszego lot
+- Data drugiego lotu
+- Liczba pasażerów pierwszego lotu
+- Liczba pasażerów drugiego lotu
+- Liczba pasażerów grupowych na pierwszym locie
+- Liczba pasażerów grupowych na drugim locie
+- Całkowita liczba pasażerów tranzytowych
+- Całkowite przychody
+- Całkowity koszt przeniesienia pasażerów na inne loty
+- Całkowite przychody dodatkowe
+- Całkowite przychody z dalszych segmentów podróży
+- Przychody z przewozu cargo
+- Koszty zmienne
+- Ostateczny bilans finansowy
 
 
 ## Open Questions
@@ -40,5 +57,5 @@ Stosunek do stosowania praktyk overbookingu przez linie lotnicze:
 * Jakie są potencjalne skutki uboczne overbookingu dla reputacji linii lotniczej oraz doświadczenia pasażerów?															
 															
 3. Zarządzanie przychodami															
-W kontekście działalności linii lotniczej, oceniając aspekty zarządzania przychodami, proszę odpowiedzieć na następujące pytanie:															
+W kontekście działalności linii lotniczej oceniając aspekty zarządzania przychodami dokonaj decyzji:															
 * Czy lepszą strategią dla linii lotniczej jest wypełnienie samolotu maksymalną liczbą pasażerów, nawet jeśli oznacza to niższą średnią cenę biletów, czy też sprzedaż mniejszej liczby biletów, ale o wyższych cenach?															
